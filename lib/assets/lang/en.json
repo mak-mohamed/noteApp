@@ -1,0 +1,39 @@
+{
+
+"ar" : "arabic" ,
+"warning" : "warning" ,
+"exiet from app" : "exiet from app" ,
+    
+
+"Remember your activities"   : "Remember your activities" ,
+"Do not worry about remembering your daily activities that interest you and may forget them during the busy day"   : "Do not worry about remembering your daily activities that interest you and may forget them during the busy day" ,
+
+"Time Management"   : "Time Management"  ,
+   
+"Organizing time and giving statistics on how you invest your time"   : "Organizing time and giving statistics on how you invest your time"  ,
+"Personalize interests"   : "Personalize interests"  ,
+ "Personalize interests from work, home, entertainment, and any other aspects of your life"   : "Personalize interests from work, home, entertainment, and any other aspects of your life"  ,
+ "email" : "email" ,
+ "english" :"english" ,
+ "arabic" : "arabic" ,
+ "ok":"ok" , 
+ "lets start" : "lets start" ,
+ "Sing Up" : "Sing Up"  ,
+ "username" : "username" , 
+ "password" : "password" , 
+ "Login" : "Login" , 
+ "Create Account":"Create Account" , 
+ "dont have accout ... create one" : "dont have accout ... create one" , 
+ "Email" : "Email" , 
+ " repassword" : " repassword" , 
+ "create account" : "create account" , 
+ "this feild cant be empty" : "this feild cant be empty",
+ "this feild cant be larger than" : "this feild cant be larger than",
+ "this feild cant be smaler than" : "this feild cant be smaler than",
+ "not valid username" : "not valid username",
+ "not valid email" : "not valid email" , 
+ "password and confirm must be same" : "password and confirm must be same"
+
+
+
+}

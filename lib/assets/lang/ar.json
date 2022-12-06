@@ -1,0 +1,36 @@
+{
+    "ar" : "عربي" ,
+    "warning" : "تحذير" ,
+    "exiet from app" : "الخروج من التطبيق" , 
+
+
+    "Remember your activities"   : "التذكير بنشاطاتك " ,
+    "Do not worry about remembering your daily activities that interest you and may forget them during the busy day"   : "لا تقلق حول تذكر أنشطتك اليومية التي تهمك والتي قد تنسى خلال زجمة اليوم " ,
+
+    "Time Management"   : "إدارة الوقت"  ,
+   
+    "Organizing time and giving statistics on how you invest your time"   : "تنظيم الوقت واعطاء احصائيات عن كيفية استثمارك لوقتك "  ,
+    "Personalize interests"   : "تخصيص الإهتمامات"  ,
+      "Personalize interests from work, home, entertainment, and any other aspects of your life"   : "تخصيص الاهتمامات من العمل و المنزل و الترفية وو أي نواحي أخرى في حياتك "  ,
+
+      "email" : "البريد الإلكتروني" ,
+      "english" :"اللغة الإنكليزية" ,
+      "arabic" : "اللغة العربية " ,
+      "ok" : "موافق" , 
+      "lets start" : "لنبدأ" ,
+      "Sing Up" : "تسجيل الدخول"  , 
+      "username" : "اسم المستخدم" , 
+      "password" : "كلمة المرور"  ,
+      "Login" : "تسجيل الدخول"   ,
+      "Create Account":"مستخدم جديد" ,
+      "dont have accout ... create one" : "لاتمتلك حساب ...قم بإنشائة الآن" , 
+      "Email" : "البريد الإلكتروني" , 
+      " repassword" : " إعادة كلمة المرور" , 
+      "create account" : "انشاء الحساب" , 
+      "this feild cant be empty" : "هذا الحقل لا يمكن أن يكون فارغ",
+      "this feild cant be larger than" : "هذا الحقل لا يمكن أن يكون أكبر من ",
+      "this feild cant be smaler than" : "هذا الحقل لا يمكن أن يكون أصغر  من",
+      "not valid username" : "اسم مستخدم غير صالح",
+      "not valid email" : "بريد الكتروني غير صالح" , 
+      "password and confirm must be same" : "لا يوجد تطابق"
+    }
